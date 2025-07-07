@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP1700T-3302E_MB")(type "KiCad")(uri "D:/A_KiCad/Custom/MCP1700T-3302E_MB/MCP1700T-3302E_MB.kicad_sym")(options "")(descr ""))
+  (lib (name "P6KE30CA")(type "KiCad")(uri "D:/A_KiCad/Custom/P6KE30CA/P6KE30CA.kicad_sym")(options "")(descr ""))
+  (lib (name "FDC5614P")(type "KiCad")(uri "D:/A_KiCad/Custom/FDC5614P/FDC5614P.kicad_sym")(options "")(descr ""))
+  (lib (name "LM3489MM")(type "KiCad")(uri "D:/A_KiCad/Custom/LM3489MM/LM3489MM.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-035D")(type "KiCad")(uri "D:/A_KiCad/Custom/PJ-035D/PJ-035D.kicad_sym")(options "")(descr ""))
+)
