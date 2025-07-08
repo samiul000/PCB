@@ -18,5 +18,5 @@ The STM32 PLC Board is built around the STM32F732x microcontroller, serving as a
 **Storage** : **FAT32 (dedicated SD Slot)**
 
 ## Screenshots
-![](STM32_PLC_Dev_Board/schematic/STM_PLC_Dev.png)
+![3D View](/STM32_PLC_Dev_Board/schematic/STM_PLC_Dev.png)
 
