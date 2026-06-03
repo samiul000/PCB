@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bd_map")(type "KiCad")(uri "D:/A_KiCad/Custom/bd_map.kicad_sym")(options "")(descr ""))
+)
