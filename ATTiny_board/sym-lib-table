@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATTINY85-20MU")(type "KiCad")(uri "D:/A_KiCad/Custom/ATTINY85-20MU/ATTINY85-20MU.kicad_sym")(options "")(descr ""))
+  (lib (name "C2E-16.000-10-1010-R")(type "KiCad")(uri "D:/A_KiCad/Custom/C2E-16.000-10-1010-R/C2E-16.000-10-1010-R.kicad_sym")(options "")(descr ""))
+  (lib (name "C3E-12.000-18-3030-X-R")(type "KiCad")(uri "D:/A_KiCad/Custom/C3E-12.000-18-3030-X-R/C3E-12.000-18-3030-X-R.kicad_sym")(options "")(descr ""))
+  (lib (name "CSP-USC16-TR")(type "KiCad")(uri "D:/A_KiCad/Custom/CSP-USC16-TR/CSP-USC16-TR.kicad_sym")(options "")(descr ""))
+)
