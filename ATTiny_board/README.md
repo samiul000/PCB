@@ -2,7 +2,7 @@
 <h1>Tiny Board: ATTiny87-M based dev board</h1>
 
 <p align="center">
-  <img src="assets/ATTiny_board.png" alt="FemtoClaw" width="1000" />
+  <img src="assets/ATTiny_board.png" alt="Tiny Board" width="1000" />
 </p>
 </div>
 
