@@ -6,6 +6,8 @@
 </p>
 </div>
 
+---
+
 ## Hardware
 - Flash Program Memory:	8 KB
 - SRAM (RAM):	512 bytes
